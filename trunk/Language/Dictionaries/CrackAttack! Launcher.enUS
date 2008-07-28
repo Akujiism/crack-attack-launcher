@@ -1,0 +1,43 @@
+#Locale file for CrackAttack! Launcher.
+#Please send your updated or completed translation to kazenyuk@gmail.com
+
+#Language: English
+#Language code: en
+#Country: USA
+#Country code: US
+
+#CrackAttack! Launcher version: 1.0.0a2
+#Translation by: Sergey S. Kazenyuk
+#Last modified: 2006.09.27
+
+"Start Game"		"Start Game"
+"Player name:"		"Player name:"
+
+#Tabs
+"Solo"			"Solo"
+"Server"			"Server"
+"Client"			"Client"
+
+#Solo tab
+"Computer AI:"		"Computer AI:"
+"None"			"None"
+"Easy"			"Easy"
+"Medium"			"Medium"
+"Hard"			"Hard"
+
+#Server and client tabs
+"Server:"			"Server:"
+"Port:"			"Port:"
+
+#Graphics Settings box
+"Graphics Settings"	"Graphics Settings"
+"Resolution:"		"Resolution:"
+"Quality:"			"Quality:"
+"qNormal"			"Normal"
+"Reduced"			"Reduced"
+"Extremely Reduced"	"Extremely Reduced"
+
+#Game mode box
+"Game Mode"		"Game Mode"
+"Normal"			"Normal"
+"X-treme"			"X-treme"

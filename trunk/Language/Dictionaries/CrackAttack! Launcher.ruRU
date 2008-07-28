@@ -1,0 +1,43 @@
+#Locale file for CrackAttack! Launcher.
+#Please send your updated or completed translation to kazenyuk@gmail.com
+
+#Language: Русский (Russian)
+#Language code: ru
+#Country: Российская Федерация (Russian Federation)
+#Country code: RU
+
+#CrackAttack! Launcher version: 1.0.0a2
+#Translation by: Sergey S. Kazenyuk
+#Last modified: 2006.10.12
+
+"Start Game"		"Начать игру"
+"Player name:"		"Имя игрока:"
+
+#Tabs
+"Solo"			"Один"
+"Server"			"Сервер"
+"Client"			"Клиент"
+
+#Solo tab
+"Computer AI:"		"Уровень ИИ:"
+"None"			"Нет"
+"Easy"			"Низкий"
+"Medium"			"Средний"
+"Hard"			"Высокий"
+
+#Server and client tabs
+"Server:"			"Сервер:"
+"Port:"			"Порт:"
+
+#Graphics Settings box
+"Graphics Settings"	"Настройки графики"
+"Resolution:"		"Разрешение:"
+"Quality:"			"Качество:"
+"qNormal"			"Нормальное"
+"Reduced"			"Урезанное"
+"Extremely Reduced"	"Сильно урезанное"
+
+#Game mode box
+"Game Mode"		"Режим"
+"Normal"			"Нормальный"
+"X-treme"			"Экстрим"
