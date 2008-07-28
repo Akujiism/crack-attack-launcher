@@ -1,0 +1,12 @@
+CrackAttack! Launcher Change log
+
+1.0.0b1 - 2006.11.15
+# Zeta LocaleKit support code was rewritten.
+# Now application supports Zeta's LocaleKit switch on-the-fly.
+
+1.0.0a2 - 2006.10.12
+# Player name default value now isn't hardcoded, application gets name of the current user.
+# Zeta-specific version uses LocaleKit. Please send your translations to kazenyuk@gmail.com
+
+1.0.0a1 - 2006.09.15
+# Initial release.

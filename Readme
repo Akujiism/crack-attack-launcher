@@ -1,0 +1,22 @@
+CrackAttack! Launcher
+version 1.0.0a2
+
+Requirements:
+1. BeOS R5 or newer
+2. Crack Attack! (Crack Attack! Launcher is useless without Crack Attack! installed)
+
+Changes:
+See ChangeLog.
+
+License: MIT
+See License for details.
+
+Notes:
+This application is in alpha stage of development, but it is stable and usefull enough to be released to public. More features will be implemented soon.
+
+Issues and limitations:
+ 1. CrackAttack binary must be placed into /boot/apps/CrackAttack!/ directory or this directory should have symbolic link to CrackAttack at least. This issue will be solved in the next version of an application.
+
+Official website: http://code.google.com/p/crack-attack-launcher/
+
+Send your bug reports, comments, information about grammar mistakes in this text, whatever to kazenyuk@gmail.com!
