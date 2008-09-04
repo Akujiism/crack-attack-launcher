@@ -1,0 +1,6 @@
+#summary ToDo list
+#labels Phase-Implementation,Phase-Design
+
+
+  * Make use of Haiku's layout manager
+   # [http://www.haiku-os.org/documents/dev/laying_it_all_out_part_1 Laying It All Out, Part 1]
